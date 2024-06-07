@@ -1,6 +1,6 @@
 ## F1NET CRUD Applicatie
 
-Gemaakt door: Ruben, Thijn
+Gemaakt door: Ruben Stap, Thijn Huisman
 
 ## Inleiding
 
